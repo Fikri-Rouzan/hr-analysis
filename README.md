@@ -18,6 +18,16 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 
 ---
 
+## 🚩 Permasalahan Bisnis
+
+1. Seberapa besar pengaruh tingkat lembur dan frekuensi perjalanan bisnis terhadap tingkat attrition karyawan?
+2. Seberapa signifikan faktor pendapatan bulanan dan struktur kompensasi finansial dalam memicu keputusan pengunduran diri karyawan?
+3. Departemen dan peran pekerjaan mana yang memiliki tingkat attrition paling tinggi dan tergolong kritis?
+4. Bagaimana faktor demografi (seperti usia) dan akumulasi pengalaman kerja memengaruhi kecenderungan karyawan untuk melakukan attrition?
+5. Bagaimana membangun model machine learning dengan sensitivitas (Recall) dan daya pemisah (ROC-AUC) yang tinggi untuk mendeteksi karyawan berisiko attrition secara dini?
+
+---
+
 ## 🛠️ Tech Stack
 
 | Kategori                    | Teknologi yang Digunakan                                             |
