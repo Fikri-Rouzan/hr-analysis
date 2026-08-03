@@ -28,6 +28,36 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 
 ---
 
+## 📊 Business Dashboard
+
+Business Dashboard interaktif ini dirancang menggunakan Data Studio untuk membantu manajemen dan tim Human Resources (HR) Jaya Jaya Maju memantau serta menganalisis berbagai pemicu pengunduran diri karyawan (attrition) secara komprehensif.
+
+Dashboard ini mengintegrasikan seluruh modul analisis data ke dalam tampilan visual yang intuitif, dilengkapi metrik real-time serta filter interaktif:
+
+1. **Metrik Utama (Scorecard KPI)**
+   Di bagian atas dashboard, ditampilkan 4 indikator kinerja utama:
+   - **Total Employees:** 1,470 Karyawan
+   - **Total Attrition:** 179 Karyawan
+   - **Attrition Rate:** 12,18%
+   - **Avg Monthly Income:** $6.502,93
+2. **Komponen Visualisasi & Pemetaan Data**
+   - **Gambaran Umum & Demografi Karyawan:**
+     - Menampilkan bahwa **Research & Development** (107 orang / 59,8%) dan **Sales** (66 orang / 36,9%) merupakan penyumbang terbesar attrition yang secara akumulatif mencakup **96,7%** dari total pengunduran diri.
+     - Mengidentifikasi bahwa puncak attrition didominasi oleh kelompok usia produktif muda (**20–34 tahun**), dengan titik tertinggi pada usia 31 tahun (14 orang) dan 29 tahun (12 orang).
+   - **Faktor Beban Kerja & Stres Kerja:**
+     - Memvisualisasikan bahwa **54,7%** karyawan yang mengundurkan diri (98 orang) berada dalam kelompok yang mengambil lembur.
+     - Menunjukkan bahwa karyawan yang melakukan perjalanan dinas (Rarely & Frequently) menyumbang **93,9%** (168 orang) dari total kasus pengunduran diri.
+   - **Peran Pekerjaan & Struktur Kompensasi:**
+     - Memaparkan 3 posisi dengan angka pengunduran diri tertinggi, yaitu **Laboratory Technician** (49 orang), **Sales Executive** (39 orang), dan **Research Scientist** (38 orang) yang secara akumulatif menyumbang **70,4%** dari total attrition.
+     - Mengungkapkan bahwa **76,0%** attrition (136 orang) menumpuk pada karyawan dengan tingkat kompensasi di bawah $6.000/bulan (kategori Low < $3.000 sebanyak 82 orang dan Mid $3.000–$6.000 sebanyak 54 orang).
+   - **Rangkuman Eksekutif & Rekomendasi Strategis:**
+     - Menyajikan rangkuman Key Conclusions serta Strategic Recommended Actions berbasis data untuk memudahkan eksekutif dalam mengambil keputusan retensi secara cepat.
+3. **Fitur Interaktif & Tautan Akses**
+   - **Filter Interaktif:** Dashboard dilengkapi kontrol penyaringan dinamis berdasarkan **Department**, **Gender**, dan **Marital Status** untuk memudahkan eksplorasi data secara lebih spesifik.
+   - **Link Dashboard:** [Executive HR Dashboard: Attrition Analysis](https://datastudio.google.com/reporting/516a86d1-dadf-4d39-8ae2-fe69833d44e9)
+
+---
+
 ## 🎯 Conclusion
 
 Secara keseluruhan, tingkat attrition karyawan berlabel di perusahaan mencapai **16,9%** (179 dari 1.058 karyawan), yang melampaui ambang batas toleransi ideal sebesar **10%**. Berdasarkan analisis data dan pemodelan yang dilakukan, berikut adalah kesimpulan utama proyek ini:
