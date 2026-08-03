@@ -40,6 +40,16 @@ Secara keseluruhan, tingkat attrition karyawan berlabel di perusahaan mencapai *
 
 ---
 
+## 💡 Strategic Recommended Actions
+
+1. Melakukan evaluasi dan pembatasan alokasi jam lembur pada departemen dengan tingkat attrition tinggi. Selain itu, terapkan kebijakan cuti pemulihan atau hybrid working bagi kelompok karyawan yang sering bepergian dinas guna mencegah timbulnya burnout.
+2. Melakukan salary benchmarking terhadap standar pasar industri, terutama untuk kelompok karyawan dengan batas median pendapatan di bawah $3.500. Tingkatkan juga alokasi Stock Option Level dan insentif berbasis kinerja sebagai pilar retensi finansial jangka panjang.
+3. Memberikan perhatian khusus pada peran **Sales Representative** (attrition 43,6%) dengan merestrukturisasi skema komisi dan target penjualan agar lebih realistis. Untuk **Laboratory Technician** (26,0%), tingkatkan fasilitas lingkungan kerja dan jalur apresiasi performa.
+4. Menyusun jalur karir yang transparan dan program mentorship khusus bagi karyawan kelompok usia muda (< 35 tahun) serta karyawan dengan masa kerja awal. Langkah ini bertujuan meningkatkan engagement dan loyalitas di tahun-tahun awal karir mereka.
+5. Mengintegrasikan model **Support Vector Machine (SVM)** ke dalam alur kerja bulanan HR menggunakan skrip inferensi `predict.py`. Berikan prioritas intervensi proaktif (seperti stay interview, penawaran program pengembangan, atau penyesuaian fasilitas) kepada **90 karyawan unlabeled** yang telah teridentifikasi dalam kategori High Risk berdasarkan Attrition Risk Score.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Kategori                    | Teknologi yang Digunakan                                             |
