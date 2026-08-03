@@ -28,6 +28,18 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 
 ---
 
+## 🎯 Conclusion
+
+Secara keseluruhan, tingkat attrition karyawan berlabel di perusahaan mencapai **16,9%** (179 dari 1.058 karyawan), yang melampaui ambang batas toleransi ideal sebesar **10%**. Berdasarkan analisis data dan pemodelan yang dilakukan, berikut adalah kesimpulan utama proyek ini:
+
+1. Lembur dan perjalanan dinas terbukti menjadi pendorong utama attrition. Karyawan yang mengambil lembur memiliki attrition rate mencapai **32,0%** (jauh melampaui yang tidak lembur sebesar **10,8%**). Sementara itu, kelompok karyawan yang sering bepergian dinas mencatatkan attrition rate tertinggi sebesar **24,7%**.
+2. Pendapatan bulanan dan struktur kompensasi memegang peranan krusial. Karyawan yang mengundurkan diri memiliki median pendapatan jauh lebih rendah (**3.388**) dibandingkan karyawan yang bertahan (**5.210**). Analisis feature importance juga menempatkan Monthly Income dan Stock Option Level sebagai faktor finansial utama penentu retensi.
+3. Departemen **Sales** menjadi area kerja paling kritis dengan tingkat attrition **20,6%**. Secara spesifik, peran **Sales Representative** mencatatkan attrition rate tertinggi hingga **43,6%**, disusul oleh **Laboratory Technician** (**26,0%**) dan **Human Resources** (**20,7%**).
+4. Karyawan berusia lebih muda (**31 tahun**) dan akumulasi pengalaman kerja yang lebih singkat memiliki kecenderungan berpindah kerja yang jauh lebih tinggi dibandingkan karyawan berusia lebih matang (**36 tahun**).
+5. Algoritma **Support Vector Machine (SVM)** terpilih sebagai early warning engine terbaik dengan nilai **Recall 75,0%** dan **ROC-AUC 0,8635**. Hasil inferensi pada 412 karyawan unlabeled berhasil mengidentifikasi **90 karyawan (21,8%)** yang berisiko tinggi mengundurkan diri untuk dapat segera diberikan intervensi program retensi secara proaktif.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Kategori                    | Teknologi yang Digunakan                                             |
