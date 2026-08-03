@@ -12,6 +12,12 @@ Dataset sumber daya manusia ini memuat informasi kunci mengenai profil dan riway
 
 ---
 
+## 💼 Business Understanding
+
+Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000 dengan lebih dari 1.000 karyawan. Meskipun telah menjadi perusahaan yang cukup besar, Jaya Jaya Maju menghadapi tantangan serius pada aspek operasional Human Resources (HR), khususnya terkait tingginya angka attrition rate (rasio pergantian karyawan) yang melampaui **10%**. Tingginya attrition ini memicu biaya rekrutmen ulang yang membengkak, penurunan efisiensi kerja tim, serta potensi hilangnya bakat-bakat potensial perusahaan.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Kategori                    | Teknologi yang Digunakan                                             |
