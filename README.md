@@ -2,9 +2,13 @@
 
 ## 📌 Deskripsi
 
+Analisis data sumber daya manusia ini berfokus pada pengolahan informasi karyawan untuk mengevaluasi pola retensi, tingkat kepuasan kerja, serta faktor-faktor yang memengaruhi keputusan pegawai untuk bertahan atau meninggalkan perusahaan. Sistem ini mencakup pemrosesan data historis pegawai guna menghasilkan wawasan berbasis metrik analitik yang mendukung pengelolaan manajemen personalia secara lebih terukur.
+
 ---
 
 ## 💾 Dataset
+
+Dataset yang digunakan dalam analisis ini memuat berbagai informasi penting terkait profil demografi pegawai, riwayat pekerjaan, tingkat kepuasan, serta catatan performa kerja di dalam perusahaan. Data ini dirancang untuk merepresentasikan faktor-faktor penentu dalam manajemen sumber daya manusia guna mempermudah proses eksplorasi tren organisasi dan evaluasi lingkungan kerja.
 
 ---
 
