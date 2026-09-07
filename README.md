@@ -1,4 +1,4 @@
-# Human Resources (HR) Analysis
+# Human Resources Analysis
 
 ## 📌 Deskripsi
 
@@ -36,7 +36,7 @@ Dashboard ini mengintegrasikan seluruh modul analisis data ke dalam tampilan vis
 
 1. **Metrik Utama (Scorecard KPI)**
    Di bagian atas dashboard, ditampilkan 4 indikator kinerja utama:
-   - **Total Employees:** 1,470 Karyawan
+   - **Total Employees:** 1.470 Karyawan
    - **Total Attrition:** 179 Karyawan
    - **Attrition Rate:** 12,18%
    - **Avg Monthly Income:** $6.502,93
@@ -86,7 +86,7 @@ Secara keseluruhan, tingkat attrition karyawan berlabel di perusahaan mencapai *
 | :-------------------------- | :------------------------------------------------------------------- |
 | 🌐 **Programming Language** | `Python`                                                             |
 | 🌱 **Environment**          | `Jupyter Notebook`                                                   |
-| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `scikit-learn`, `Joblib` |
+| ⚛️ **Libraries**            | `NumPy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `Joblib` |
 | ⚡ **Tools**                | `Google Colab`, `Data Studio`                                        |
 
 ---
