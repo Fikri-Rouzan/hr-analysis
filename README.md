@@ -85,7 +85,7 @@ Secara keseluruhan, tingkat attrition karyawan berlabel di perusahaan mencapai *
 | Kategori                    | Teknologi yang Digunakan                                             |
 | :-------------------------- | :------------------------------------------------------------------- |
 | 🌐 **Programming Language** | `Python`                                                             |
-| 🌱 **Environment**          | `Jupyter Notebook`                                                   |
+| 🌱 **Environment**          | `Jupyter`                                                            |
 | ⚛️ **Libraries**            | `NumPy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `Joblib` |
 | ⚡ **Tools**                | `Google Colab`, `Data Studio`                                        |
 
